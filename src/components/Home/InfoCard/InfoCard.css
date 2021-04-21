@@ -1,0 +1,21 @@
+.info-card{
+    padding: 0 5px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.info-primary{
+    background-color: #aa0000;
+}
+.info-dark{
+    background-color:#3A4256;
+}
+.info-container{
+    height: 100px;
+    padding:30px;
+}
+.info-icon{
+    font-size: 3em;
+}
+.business-info{
+    margin-top: -20px;
+}
